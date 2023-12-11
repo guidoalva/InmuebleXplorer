@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InmuebleXplorerApp</string>
+    <string name="Seleccionar">Seleccionar</string>
+    <string name="title_activity_alquiler_venta">AlquilerVentaActivity</string>
+    <string name="title_activity_consulta">ConsultaActivity</string>
+
+</resources>

@@ -1,0 +1,15 @@
+package com.example.inmueblexplorerapp.tablas;
+
+import android.provider.BaseColumns;
+
+public class ProvinciaContract {
+
+    private ProvinciaContract() {
+
+    }
+    public static class ProninciaEntry implements BaseColumns {
+        public static final String TABLE_NAME = "Provincia";
+        public static final String _ID = "ID";
+        public static final String COLUMN_NAME_NOMBRE = "Nombre";
+    }
+}
